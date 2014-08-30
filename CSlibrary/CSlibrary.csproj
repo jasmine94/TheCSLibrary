@@ -149,6 +149,7 @@
     <Content Include="CSlibrary\DeleteFile.cshtml" />
     <Content Include="UploadedFiles\WEBAPPS Synthesis.docx" />
     <Content Include="UploadedFiles\WEBAPPS User Stories.docx" />
+    <Content Include="CSlibrary\Download.cshtml" />
     <None Include="Scripts\jquery-2.1.0.intellisense.js" />
     <Content Include="Scripts\jquery-2.1.0.js" />
     <Content Include="Scripts\jquery-2.1.0.min.js" />
