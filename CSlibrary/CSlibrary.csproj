@@ -150,6 +150,7 @@
     <Content Include="UploadedFiles\WEBAPPS Synthesis.docx" />
     <Content Include="UploadedFiles\WEBAPPS User Stories.docx" />
     <Content Include="CSlibrary\Download.cshtml" />
+    <Content Include="CSlibrary\Search.cshtml" />
     <None Include="Scripts\jquery-2.1.0.intellisense.js" />
     <Content Include="Scripts\jquery-2.1.0.js" />
     <Content Include="Scripts\jquery-2.1.0.min.js" />
