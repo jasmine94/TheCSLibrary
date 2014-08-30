@@ -97,10 +97,11 @@
                         
                         @if(coursecode == null)
                         {
-                            
+                            <li><a id="search" href="#" class="glyphicon glyphicon-search"></a></li>
                         }
                        else{
-                            Response.Write(coursecode);
+                            //Response.Write(coursecode);
+                            <li><a id="search" href="Files.cshtml?course=@coursecode" class="glyphicon glyphicon-search"></a></li>
                         }
                     <li><a href="ViewCourses.cshtml">View Courses</a></li>
 
